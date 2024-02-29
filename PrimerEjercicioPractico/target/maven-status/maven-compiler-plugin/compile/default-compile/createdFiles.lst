@@ -1,0 +1,12 @@
+com\EjercicioPractico1\EjercicioPractico1Application.class
+com\EjercicioPractico1\controller\LibrosController.class
+com\EjercicioPractico1\ProjectConfig.class
+com\EjercicioPractico1\service\ClientesService.class
+com\EjercicioPractico1\dao\ClientesDao.class
+com\EjercicioPractico1\service\impl\LibrosImpl.class
+com\EjercicioPractico1\domain\Libros.class
+com\EjercicioPractico1\controller\ClientesController.class
+com\EjercicioPractico1\domain\Clientes.class
+com\EjercicioPractico1\service\impl\ClientesImpl.class
+com\EjercicioPractico1\dao\LibrosDao.class
+com\EjercicioPractico1\service\LibroService.class
